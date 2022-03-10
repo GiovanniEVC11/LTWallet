@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627278042630",
+    "firebase_url": "https://ltwallet-default-rtdb.firebaseio.com",
+    "project_id": "ltwallet",
+    "storage_bucket": "ltwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627278042630:android:ee0b3abfbb296f8ce75587",
+        "android_client_info": {
+          "package_name": "com.itigevc.ltwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627278042630-ag71rvecbcamlkmq4vi334e480t2ce04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbjKrnndQQSS7UraFdPFtB9NQCgtemuqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627278042630-ag71rvecbcamlkmq4vi334e480t2ce04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

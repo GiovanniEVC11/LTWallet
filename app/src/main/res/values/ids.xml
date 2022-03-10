@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Login -->
+    <item name="compose_view_login" type="id" />
+    <item name="compose_view_sign_up" type="id" />
+    <item name="compose_view_forgot_pwd" type="id" />
+
+    <!-- Main -->
+    <item name="compose_view_profile" type="id" />
+    <item name="compose_view_home" type="id" />
+    <item name="compose_view_dashboard" type="id" />
+    <item name="compose_view_bookmarks" type="id" />
+    <item name="compose_view_notifications" type="id" />
+
+    <!-- Messenger -->
+    <item name="compose_view_messenger" type="id" />
+
+    <!-- Settings -->
+    <item name="compose_view_settings" type="id" />
+
+    <!-- Util -->
+    <item name="compose_view_on_boarding" type="id" />
+
+</resources>
